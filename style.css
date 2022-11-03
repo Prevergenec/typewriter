@@ -1,0 +1,8 @@
+.out {
+    display: flex;
+    flex-wrap: wrap;
+}
+.out_one, .out_two {
+    width: 100%;
+    margin: 50px;
+}
